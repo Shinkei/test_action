@@ -1,0 +1,26 @@
+{
+  "name": "test_action",
+  "version": "0.0.1",
+  "description": "Test action",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shinkei/test_action.git"
+  },
+  "keywords": [
+    "test",
+    "action"
+  ],
+  "author": "Jorge Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shinkei/test_action/issues"
+  },
+  "homepage": "https://github.com/Shinkei/test_action#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
